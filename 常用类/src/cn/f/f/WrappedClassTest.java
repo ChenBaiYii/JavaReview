@@ -3,7 +3,7 @@ package cn.f.f;
 // 测试包装类
 public class WrappedClassTest {
     public static void main(String[] args) {
-        Integer a = new Integer(3);
+        Integer a = new Integer(3);  // 弃用方式
         Integer c = Integer.valueOf(3);
         Integer b = 1000; // new
 
