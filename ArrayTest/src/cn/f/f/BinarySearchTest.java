@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BinarySearchTest {
     public static void main(String[] args) {
-        System.out.println("二分查找");
+        System.out.println("二分查找:");
 
         int[] arr = {30, 20, 50, 10, 80, 9, 7, 12, 100, 40, 8};
         Arrays.sort(arr);
